@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Web</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <h1 class="isaac">This is a heading 1</h1>
+        <h2 id="fred">This is a heading 2</h2>
+        <h3>This is a heading 3</h3>
+        <h4 class="isaac">This is a heading 4</h4>
+        <h5>This is a heading 5</h5>
+        <h6>This is a heading 6</h6>
+        <p>This is a paragraph</p>
+        <hr>
+        <p>This is another <br> paragraph</p>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi quibusdam neque ratione voluptatum magni itaque animi officia incidunt harum ab? Incidunt quia quas architecto soluta nam mollitia officia eaque fugiat!</p>
+        <pre><b><i>Lorem ipsum dolor sit amet,
+
+             consectetur adipisicing elit.
+
+            Assumenda corporis vitae autem,
+
+             sit libero enim tenetur dolor excepturi tempore dicta facere.
+
+             Magni sunt illo nulla laboriosam impedit cum modi odio?
+            </i></b></pre>
+            <p><b>this is bold</b></p>
+            <p>this is <sub>down</sub>but this is <sup>up</sup></p>
+        <del>Not important</del>
+
+    </body>
+</html>
