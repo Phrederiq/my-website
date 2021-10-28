@@ -3,7 +3,7 @@
     text-align: center;
     padding-top: 50px;
     text-decoration: underline;
-    color: black;
+    color: rgb(0, 0, 0);
 }
 .text{
     border-style: solid;
@@ -32,4 +32,29 @@ body{
 #pid{
     color: hotpink;
     
+}
+.mar{
+    margin-left: 500px;
+    margin-right: 500px;
+    
+}
+.container{
+    border: solid black 5px;
+    text-align: center;
+    display: inline-block;
+    display: flex;
+    justify-content: center;
+}
+.box-1{
+    background-color: red;
+    display: inline-block;
+}
+.box-2{
+    background-color:gold;
+    display: inline-block;
+}
+.box-3{
+    background-color: green;
+    display: inline-block;
+   
 }
